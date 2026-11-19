@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\legol\OneDrive\Documents\Uni Work\Year 3\3D_Graphics\3D_Graphics\Intermediate\PipInstall
+set VIRTUAL_ENV=C:\Users\100759438\Desktop\3D-Graphics\3D_Graphics\Intermediate\PipInstall
 
 if not defined PROMPT set PROMPT=$P$G
 
